@@ -11,7 +11,7 @@ This project focuses on detecting plastic waste using drones equipped with the Y
 - **Deployment on Drones**: Designed to integrate with drones for automated detection.
 
 ## Technologies Used
-- **Deep Learning**: YOLOv4/YOLOv5 for object detection
+- **Deep Learning**: YOLO for object detection
 - **Python**: Primary language for model development
 - **OpenCV**: Image processing and manipulation
 - **TensorFlow/PyTorch**: For training and deploying the model
